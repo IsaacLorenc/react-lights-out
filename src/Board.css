@@ -1,0 +1,11 @@
+.Board {
+  margin: 0 auto;
+  padding: 10px;
+  border: 2px solid black;
+  display: table;
+}
+
+.Board-winner {
+  font-size: 2rem;
+  text-align: center;
+}
